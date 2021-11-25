@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/notes/
+Content-Type: application/json
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFuZHlDb25zIiwiaWQiOiI2MTk2Y2M0ZjQyMmM3MzY2YzhlYTBkYTMiLCJpYXQiOjE2MzcyODQ2NTQsImV4cCI6MTYzNzg4OTQ1NH0.MR8qlfBVShRTPZh4U_GMJCH9Y9LsZXlV2X4XlqyYmqc
+
+{
+  "title": "Utilizando middlewre userExtractor",
+  "body": "This is the content of my new note"
+}
