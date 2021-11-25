@@ -7,7 +7,7 @@
     "api",
     "app"
   ],
-  "enngines": {
+  "engines": {
     "npm": "7.9.0"
   },
   "main": "index.js",
